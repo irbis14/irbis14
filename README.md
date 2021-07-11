@@ -4,4 +4,4 @@ Hi there 👋 My name is Nina, I am a Frontend developer focused on HTML, CSS, J
 👯 I’m looking to collaborate on some interesting web applications.
 📫 You can reach me via https://www.linkedin.com/in/nina-motorna/.
 
-You can find some cool project pinned below 👇
+You can find some cool projects pinned below 👇
